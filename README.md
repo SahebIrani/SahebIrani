@@ -12,7 +12,7 @@ Saheb Irani</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 
 - 💬 Ask me about **.NET, Clean Architecture, Microservices, DDD, CQRS, Event Sourcing, JavaScript**
 
-- 👯 I’m looking to collaborate on **.NET projects**
+- 👯 I’m looking forward to collaborate on **.NET projects**
 
 - 📫 How to reach me **sinjul.msbh@hotmail.com**
 
