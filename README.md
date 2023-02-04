@@ -5,11 +5,18 @@
 Saheb Irani</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A passionate Self-taught .NET developer..,;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A passionate Self-taught .NET developer"></a>
 </h3>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=SinjulMSBH"></a>
+</p>
 
-<img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="400">
+<div align="center">
+<img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="400">
+</div>
+
+</br>
 
 <div style="display:flex; align-content:center">
 
@@ -58,6 +65,12 @@ Saheb Irani</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
       <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahebirani&theme=tokyonight" alt="sahebirani" /></a> </p>
       <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahebirani&theme=tokyonight_duo" alt="7oSkaaa" /></p>
       <br/>
+      <div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+      <br/>
     <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
@@ -89,6 +102,8 @@ Saheb Irani</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 </details>
 
 </br>
-Credit: [Saheb Irani](https://github.com/SahebIrani) Last Edited on: 04/02/2023
+
+Credit: [Saheb Irani](https://github.com/SahebIrani) 
+Last Edited on: 04/02/2023
 
 </article>
