@@ -16,15 +16,15 @@ Saheb Irani</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 
 <div style="display:flex; align-content:center">
 
-<p style="padding: 3.1px" align="left"> <img src="https://komarev.com/ghpvc/?username=sahebirani&label=Profile%20views&color=0e75b6&style=flat" alt="sahebirani" /> </p>
+<span style="padding: 3.1px" align="left"> <img src="https://komarev.com/ghpvc/?username=sahebirani&label=Profile%20views&color=0e75b6&style=flat" alt="sahebirani" /> </span>
 
-<p> <a href="https://twitter.com/sinjul_msbh" target="blank"><img src="https://img.shields.io/twitter/follow/sinjul_msbh?logo=twitter&style=for-the-badge" alt="sinjul_msbh" /></a> </p>
+<span> <a href="https://twitter.com/sinjul_msbh" target="blank"><img src="https://img.shields.io/twitter/follow/sinjul_msbh?logo=twitter&style=for-the-badge" alt="sinjul_msbh" /></a> </span>
 
-<p> <a href="https://www.linkedin.com/in/sahebirani/" target="blank"><img src="https://img.shields.io/twitter/follow/sahebirani?logo=linkedin&style=for-the-badge" alt="sahebirani" /></a> </p>
+<span> <a href="https://www.linkedin.com/in/sahebirani/" target="blank"><img src="https://img.shields.io/twitter/follow/sahebirani?logo=linkedin&style=for-the-badge" alt="sahebirani" /></a> </span>
 
 </div>
 
-- 👨‍💻 All of my projects are available at **[MY WEBSITE](sahebirani.ir)**
+- 👨‍💻 All of my projects are available at **[MY WEBSITE](https://sahebirani.ir)**
 
 - 💬 Ask me about **.NET, Clean Architecture, Microservices, DDD, CQRS, Event Sourcing, JavaScript**
 
@@ -32,7 +32,7 @@ Saheb Irani</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 
 - 📫 How to reach me **sinjul.msbh@hotmail.com**
 
-- 📄 Know about my experiences **[MY RESUME](sahebirani.ir/Resume.pdf)**
+- 📄 Know about my experiences **[MY RESUME](https://sahebirani.ir/Resume.pdf)**
 
 - 👾 Follow me on Telegram **[t.me/Sinjul_MSBH](https://t.me/Sinjul_MSBH)**
 
