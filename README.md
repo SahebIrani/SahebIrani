@@ -9,13 +9,11 @@ Saheb Irani</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 </h3>
 
 <div align="center">
-<h4 style="padding: 3.1px" align="center"> <img src="https://komarev.com/ghpvc/?username=sahebirani&label=Profile%20views&color=0e75b6&style=flat" alt="sahebirani" /> </h4>
+<h4 align="center"> <img src="https://komarev.com/ghpvc/?username=sahebirani&label=Profile%20views&color=0e75b6&style=flat" alt="sahebirani" /> </h4>
 <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="400">
 
 </div>
-
-</br>
-
+ 
 - 👨‍💻 All of my projects are available at **[MY WEBSITE](https://sahebirani.ir)**
 
 - 💬 Ask me about **.NET, Clean Architecture, Microservices, DDD, CQRS, Event Sourcing, JavaScript**
