@@ -1,7 +1,7 @@
 
 <article style="display:text-align=center">
 
-<h1 align="center"><b>Hi , I'm <a href="sahebirani.ir" target="blank">
+<h1 align="center"><b>Hi , I'm <a href="https://sahebirani.ir" target="blank">
 Saheb Irani</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">
@@ -9,20 +9,12 @@ Saheb Irani</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 </h3>
 
 <div align="center">
+<h4 style="padding: 3.1px" align="center"> <img src="https://komarev.com/ghpvc/?username=sahebirani&label=Profile%20views&color=0e75b6&style=flat" alt="sahebirani" /> </h4>
 <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="400">
+
 </div>
 
 </br>
-
-<div style="display:flex; align-content:center">
-
-<span style="padding: 3.1px" align="left"> <img src="https://komarev.com/ghpvc/?username=sahebirani&label=Profile%20views&color=0e75b6&style=flat" alt="sahebirani" /> </span>
-
-<span> <a href="https://twitter.com/sinjul_msbh" target="blank"><img src="https://img.shields.io/twitter/follow/sinjul_msbh?logo=twitter&style=for-the-badge" alt="sinjul_msbh" /></a> </span>
-
-<span> <a href="https://www.linkedin.com/in/sahebirani/" target="blank"><img src="https://img.shields.io/twitter/follow/sahebirani?logo=linkedin&style=for-the-badge" alt="sahebirani" /></a> </span>
-
-</div>
 
 - 👨‍💻 All of my projects are available at **[MY WEBSITE](https://sahebirani.ir)**
 
