@@ -33,7 +33,8 @@ Saheb Irani</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 <a href="https://stackoverflow.com/users/5354319/saheb-irani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5354319/saheb-irani" height="30" width="40" /></a>
 <a href="https://instagram.com/saheb.irani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saheb.irani" height="30" width="40" /></a>
 <a href="https://medium.com/@sinjulmsbhtrader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sinjulmsbhtrader" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sinjulmsbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sinjulmsbh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sinjulmsbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sinjulmsbh" height="30" width="40" /></a>
+<a href="https://www.aparat.com/MSBH" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/256/aparat.png" alt="MSBH" height="30" width="40" /></a>
 <a href="https://discord.gg/SinjulMSBH#8879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SinjulMSBH#8879" height="30" width="40" /></a>
 </p>
 
